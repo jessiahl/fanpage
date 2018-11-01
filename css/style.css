@@ -51,4 +51,24 @@ a{
 .ed{
     color: white;
 }
+
+.rightPane{
+        font-family: 'Playfair Display', serif;
+        width: 60%;
+        text-decoration: underline;
+        
+}
+
+.leftPane{
+    width: 40%;
+    
+    
+}
+.aboutMain{
+    display: flex;
+}
+
+#flag{
+    width: 100%;
+}
 }
